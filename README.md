@@ -1,2 +1,2 @@
 # Web-Programming-MI20B
-Mata Kuliah Web Programming 1
+ Mata Kuliah Web Proggraming LP3I
